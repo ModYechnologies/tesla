@@ -1,0 +1,4 @@
+applications
+computers
+humans
+tools
